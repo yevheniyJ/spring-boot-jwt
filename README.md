@@ -22,4 +22,4 @@ Main libraries/frameworks/tools which are used:
 To run this application you should:
 * Provide credentials for PostgreSQL in application.yaml or pass VM options
 
-#ENJOY!
+# ENJOY!
